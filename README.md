@@ -1,6 +1,6 @@
 # Polymorphic Data
 
-Polymorphic Data is (an attempt to create) a pattern to solving data sharing among different contexts and needs. It favors encapsulation and high cohesion to share a source of truth that needs to be shaped accordingly to the context. This is repository presents a brief proof of concept for the idea.
+Polymorphic Data is (an attempt to create) a pattern to solving data sharing among different contexts and needs. It favors encapsulation and high cohesion to share a source of truth that needs to be shaped accordingly to the context. This repository presents a brief proof of concept for the idea.
 
 ## (Attempted) Pattern contextualization
 
